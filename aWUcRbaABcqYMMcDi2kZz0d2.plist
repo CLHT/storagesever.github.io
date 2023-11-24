@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://iosapps.itunes.apple.com/itunes-assets/Purple116/v4/a4/6a/4e/a46a4ed6-048c-4e6a-38c2-85663756d56b/extDirxfeqrhxqmhzeaifl.thinned.signed.dpkg.ipa?accessKey=1700981261_525125216978268488_kNihq%2FUfTZGD8JEOi6l4aEEghcnrHBuzK7MqK50OxpOLVFPya%2FinvnhzP1wmRX0gZFGRZ6t4oKFlGECsQVd97aiIcMDxImPXi2oW0wReKZFfXlgYbHT2jEQEa7id%2BNxFDdQlxGh8SP%2FgYuyWRboJu88KIEohR0e1xdjcTWSaVWtycz1RY%2FYXyGkm5xGfH4kP%2Fuhm3cO%2FzE%2FHNhHpXE1PSA%3D%3D</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.mojang.pe</string>
+				<key>bundle-version</key>
+				<string>v1.20</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>releaseNotes</key>
+				<string>v1</string>
+				<key>title</key>
+				<string>Minecraft</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
